@@ -1,9 +1,10 @@
 body {
     padding: 50px;
-    background-color: #ffa31a;
+    background-color: grey;
     font-family: sans-serif;
   }
   #container {
     display: flex;
     justify-content: center;
+
   }
